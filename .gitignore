@@ -2,3 +2,4 @@ config.properties
 log.txt
 *.dat
 .plugins/
+plugins/TouchPortalSpotifyPlugin/plugin.config
