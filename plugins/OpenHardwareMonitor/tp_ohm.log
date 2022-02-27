@@ -1,6 +1,0 @@
-$VAR1 = 'C:\\Users\\PREINB~1\\AppData\\Local\\Temp\\par-707265696e626f7468\\cache-ae46b6047c936eef0f368b39c59bedb189b8ed05\\inc\\lib';
-$VAR2 = 'C:\\Users\\PREINB~1\\AppData\\Local\\Temp\\par-707265696e626f7468\\cache-ae46b6047c936eef0f368b39c59bedb189b8ed05\\inc';
-$VAR3 = sub { "DUMMY" };
-$VAR4 = sub { "DUMMY" };
-2022-02-26 17:12:18.663002 - [START] tp_ohm is starting up, and about to connect
-2022-02-26 17:12:18.814451 - [FATAL] Unable to connect to WMI...
