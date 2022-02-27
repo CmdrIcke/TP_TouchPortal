@@ -1,0 +1,3 @@
+name=Elite Dangerous - Codex Icon pack
+author=by CmdrIcke
+link=https://github.com/CmdrIcke/TP_BTN_SITE/tree/main/EliteDangerous

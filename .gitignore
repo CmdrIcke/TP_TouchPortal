@@ -1,0 +1,4 @@
+config.properties
+log.txt
+*.dat
+.plugins/

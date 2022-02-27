@@ -1,0 +1,4 @@
+name=Spdermn02 Icons - White Border
+author=Spdermn02
+link=https://twitch.tv/spdermn02
+bgcolor=#000000

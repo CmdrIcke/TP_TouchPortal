@@ -1,0 +1,3 @@
+name=Discord Vanilla Icon Pack
+author=BreezyBat
+link=https://twitch.tv/breezybat
